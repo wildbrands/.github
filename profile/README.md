@@ -14,4 +14,4 @@ Tambien te invitamos a revisar algunas documentaciones que te pueden ayudar:
 Hemos seleccionado algunas herramientas (para programar) que te simplificaran muchos de los procesos que haras de forma regular.
 Step by steps:
 
-- [MAC](mac.md)
+- [MAC y Linux](mac_y_linux.md)
