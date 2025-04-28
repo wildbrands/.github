@@ -64,16 +64,16 @@ Herramientas varias que sirven directamente a como estamos trabajando en WILD (i
 
 No vamos a ser exigentes con el editor, pero en general usamos Visual Studio Code. Cualquier otro editor pasa por criterio del usuario.
 
-Link instalcion: <https://code.visualstudio.com/download>
+Link instalcion: [VS Code](https://code.visualstudio.com/download)
 Escoger si es Intel o Apple (chips M algo) y seguir las instrucciones.
 
 ### GCP
 
 Basicamente toda nuestra operacion en la nube esta apalancada en GCP y la idea de instalar el Cliente de GCP de forma local es poder simplificar la conexion a esta.
 
-En general el step by step se puede encontrar en: <https://cloud.google.com/sdk/docs/install>. Pero indicare de todas maneras los principales pasos y unas configuraciones que realizar:
+En general el step by step se puede encontrar en: [Cloud SDK](https://cloud.google.com/sdk/docs/install). Pero indicare de todas maneras los principales pasos y unas configuraciones que realizar:
 
-1. Descargar el archivo de <https://cloud.google.com/sdk/docs/install> correspondiente a tu OS/procesador y dejar en alguna carpeta que no vayas a borrar, ejemplo Documentos > Google Client
+1. Descargar el archivo de [Cloud SDK](https://cloud.google.com/sdk/docs/install) correspondiente a tu OS/procesador y dejar en alguna carpeta que no vayas a borrar, ejemplo Documentos > Google Client
 2. Descomprimir en la carpeta
 3. Abrir un terminal en esa carpeta e instalar:
 
@@ -118,7 +118,7 @@ pip install dbt-core dbt-bigquery
 
 Una vez instalados ya se puede usar de forma regular, recomiento mirar la extension [Power User for dbt](<https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user>) para simplificar su uso.
 
-Recomiendo mirar tambien el quickstart de DBT, puede tener algunas explicaciones extra: <https://docs.getdbt.com/docs/get-started-dbt>
+Recomiendo mirar tambien el quickstart de DBT, puede tener algunas explicaciones extra: [DBT](https://docs.getdbt.com/docs/get-started-dbt)
 
 ## Extra: Extensiones VC Code
 
