@@ -140,7 +140,7 @@ Le voy a dar un doble click a este ultimo, este lo utilizo en especifico para fo
 1. Instalar sqlfmt:
 
    ```bash
-   pip install shandy-sqlfmt[jinjafmt]
+   pip install "shandy-sqlfmt[jinjafmt]"
    ````
 
 2. Editar settings.json:
