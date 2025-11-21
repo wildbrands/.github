@@ -4,7 +4,12 @@ Esto applica solo si estas trabajando en un equipo con MACOS.
 
 ## Base
 
-2 de las herramientas que te simplificaran la obtencion de herramientas y nuevas versiones son: Homebrew y Pyenv.
+3 de las herramientas que te simplificaran la obtencion de herramientas y nuevas versiones son: Homebrew y Pyenv. También recomendamos VSC como editor, aunque puede usar el que quiera.
+
+### Visual Studio Code
+
+Link instalcion: [VS Code](https://code.visualstudio.com/download)
+Escoger si es Intel o Apple (chips M algo) y seguir las instrucciones.
 
 ### Homebrew
 
@@ -59,13 +64,6 @@ pyenv global 3.11
 ## Herramientas trabajo
 
 Herramientas varias que sirven directamente a como estamos trabajando en WILD (independiente si LAMA o FOODS), junto con algunas mejoras en calidad de vida.
-
-### Visual Studio Code
-
-No vamos a ser exigentes con el editor, pero en general usamos Visual Studio Code. Cualquier otro editor pasa por criterio del usuario.
-
-Link instalcion: [VS Code](https://code.visualstudio.com/download)
-Escoger si es Intel o Apple (chips M algo) y seguir las instrucciones.
 
 ### GCP
 
